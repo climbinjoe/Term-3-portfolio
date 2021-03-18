@@ -1,0 +1,161 @@
+Joseph Simper 
+Question 1
+In programming terms, what does "OOP" stand for?
+Object-Oriented Programming 
+Outer-Object Programming 
+Objects On Python 
+none of the above
+1
+Because thats what it stands for.
+Question 2
+Which OOP concept deals with the values that /belong to an object?
+Data 
+Behavior 
+Relationships 
+Objectivism 
+1
+Beacuse Data holds all the most important things.
+Question 3
+Which OOP concept deals with the methods or /functions that belong to an object?
+Behavior 
+Data 
+Relationships 
+Classes 
+1
+Because the fuctions for an object act as the objects behaviors.
+Question 4
+Which OOP concept deals with how objects may /interact with each other?
+Relationships 
+Data 
+Behavior 
+Classes
+1
+Because having a relationship connects the multiple objects alowing them to interact.
+Question 5
+How do you identify the statements that belong to /the body of a function?
+Indent those statements the same amount underneath the function "def" statement
+Add the "def" keyword to the beginning of each statement
+Add opening and closing curly braces { and } to mark the start and stop of the function body
+Add the same comment (#) to the right of each statement within the body
+1
+Because you must indent all the statements equally under the function. 
+Question 6
+In Python, what do you call an object?
+class 
+source file 
+variable 
+method 
+1
+Because a Class is like an object constructor, or a blueprint for creating objects.
+Question 7
+How would you define a property or attribute on a class?
+Initialize a class variable, indented inside and underneath the "class" statement
+Define a class method starting in the left column underneath the "class" statement
+Initialize a variable above the "class" statement and then use it inside the class somewhere
+Define a function with "def" in a separate source file
+1
+Because you must indent inside and underneath the class statement.
+Question 8
+Where should your class definitions go in your source code?
+Near the top of the code 
+At the end of the program 
+Right after the class is used in the program 
+It does not matter where the class definition is located in the source code 
+1
+Because the need to be already defined before you call them up or pass them in.
+Question 9
+Data that is held in class variables is also /referred to by what term(s)?
+property or attribute 
+method or function 
+class or object 
+OOP 
+1
+Because data held in a calss becomes a part of the class, almost as if the class owns the data.
+Question 10
+Which keyword is used to create a method /inside a class definition?
+def 
+method 
+function 
+class 
+1
+Because def defines the function.
+Question 11
+Given the following class definition, from /your main code, how would you print the model information to the screen? /class Rocket: /model = "Saturn V"
+print(Rocket.model) 
+print(class.model) 
+print(Rocket) 
+print(model) 
+1
+Because it specifically states the exact names in the correct order.
+Question 12
+Given the following class definition, from your main code, how would you /update the model information to contain "Atlas"? /class Rocket: /model = "Saturn V"
+Rocket.model = "Atlas"
+Rocket.model("Atlas")
+model = "Atlas"
+Rocket[model] = "Atlas"
+1
+Because it has the correct destination, and format.
+Question 13
+Given the following class definition, how would you /call the "launch" method from the main program code? /class Rocket: /def launch(): /print("10, 9, 8, 7, 6, 5, 4, 3, 2, 1, BLASTOFF")
+Rocket.launch() 
+launch() 
+launch(Rocket) 
+Rocket[launch()] 
+1
+Because you must include not only the name of the class but also the function name.
+Question 14
+Which of the following statements is true about /both class variables and class methods?
+Both of these are true 
+They should both be defined by statements indented to the right underneath the "class" statement
+They are both accessed by writing the class name, then a dot and then the variable or method name 
+Neither of these are true 
+1
+Because they're both true
+Question 15
+What is a good reason to split parts of your /code into different source files?
+To make it easier to re-use parts of your code from other programs 
+To make sure the program will not run too slowly due to large source files 
+To make the grading easier for your teacher 
+All of these are correct 
+1
+Because every program has something slightly similar to something that you might have already done.
+Question 16
+If we had a "Validator" class stored in a file called "Utility.py", /which statement would make that class available to your main code in another source file?
+import Utility  
+import Validator 
+include Validator.class 
+include Utility.Validator 
+1
+Because the file name is Utility.
+Question 17
+Which of the following best describes the kind of code that /you would likely split into another source file?
+Closely related code such as a class definition or group of functions that do similar things 
+Code that is most likely to throw exceptions at runtime 
+Code that is most likely to run slowly when the program executes 
+Code that you don't understand very well
+1
+Because it is always best to use code similar to what you're doing.
+Question 18
+If the following class is contained within a file named "Space.py", and /it has been property included or imported in your main program source file, /how would you print the model variable from your main program code? /class Rocket: /model="Saturn V"
+print(Space.Rocket.model) 
+print(Rocket.model) 
+print(Space.model) 
+print(model) 
+1
+Because you must open the file, class, and the model.
+Question 19
+When creating local Python source files on your computer, /what sort of file naming rules should you follow?
+Select a filename that describes the contents, use ".py" as an extension, and avoid special characters that don't follow Python naming conventions
+The filename must contain only numbers and end in ".py"
+The filename should be selected to hide the true purpose of the code inside the file 
+The filename must contain at least 1 special character such as !, # or @ 
+1
+Because if you don't add .py at the end it will not open as a python /shell and certain characters could break your code.
+Question 20
+When creating local Python source files on your computer, which of the /following best describes the recommended way to organize those files?
+Create a sub-directory for each project or program, and store all project source files in that directory 
+Create one directory to hold all of your Python source code for every project 
+Store all of your Python source files in the root directory of your hard drive 
+Store all of your Python source files on an external storage media and avoid keeping them on your computer's hard drive
+1
+Because then all you have to do is search for one folder to find your project.

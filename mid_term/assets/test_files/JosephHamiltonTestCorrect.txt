@@ -1,0 +1,161 @@
+Joseph Hamilton from 4&5 period
+Data Types
+Which of these is an integer?
+4
+“I like cows”
+“Purple”
+“gfdsa”
+1
+Integers are always numbers
+Print Function
+Which of these is the correct way to use the print function?
+print(“Hi”)
+print Hi
+print = “Hi”
+print.printy.hi.printy.happy.icecream
+1
+Print statements use parenthesis
+Data types
+Which of these is a boolean?
+True
+4
+235
+0
+1
+Booleans are not numbers
+If statements
+What do you end if statements with?
+A colon
+An emoji
+blood
+Horse intestines
+1
+If statements need colons to work
+Variable Names
+What is the best name for a variable to record the number of dead kittens in your basement?
+dead_kittens
+fashasdgsad
+kldsagdsjsadjj
+dkdkddkdkgfasjjgjgjgj
+1
+Variable names should describe what the variable is meant to represent
+Assigning variables
+How would you set dead_kittens to 5?
+dead_kittens = 5
+dead_kittens = 6
+dead_kittens = 7
+dead_kittens = 8
+1
+In Python, 5 == 5
+Operators
+How would you add 6 to dead_kittens?
+dead_kittens = dead_kittens + 6
+dead_kittens = dead_kittens - 6
+dead_kittens = dead_kittens % 6
+dead_kittens = dead_kittens * 6
+1
+In Python, + is the symbol used for addition
+Lists
+How would you make a list called “salad”
+salad = []
+dskflagads = []
+Horses = []
+salad = True
+1
+Lists are made with [] and they need to be named what you are naming them
+List functions
+How would you add dead_kittens to salad?
+salad.append(dead_kittens)
+salad.dsaghsasdhsa(dead_kittens)
+salad.dsaghjkljjkjkjogjjksasdhsa(dead_kittens)
+salad.dsagoijokjfahoafkhjohfkjhofdjhkjfobkjhsasdhsa(dead_kittens)
+1
+.append adds things to lists
+Len function
+How would you find the current length of salad?
+len(salad)
+torture it untill it tells you
+measure it with a barometer
+bird(salad)
+1
+len() returns the length of the thing you pass in
+List length
+What would len(salad) return?
+1
+2
+12
+1.8 billion
+1
+The salad currently has only one item
+Stupid question #1
+Since the length of the salad is 1, about how long is each of your dead kittens?
+0.090909 list measurement units
+14 list measurement units
+0 lmus(list measurement units)
+15 lmus
+1
+1(the length of the salad) divided by 11(the number of kittens in the salad) = about 0.090909 lmus
+String formatting
+Which of these would create an ad advertising the length of your kitten salad?
+ad = str.format(“My salad is {} lmus long!”, len(salad))
+ad = str.format(“My salad is ## lmus long!”, len(salad))
+ad = str.format(“My salad is %% lmus long!”, len(salad))
+ad = str.format(“My salad is __ lmus long!”, len(salad))
+1
+Str.format uses {} to specify where variables go
+Cacatination
+Which of these would attach the string “ Yum!” to the end of ad?
+ad = ad + “ Yum!”
+ad = ad $ “ Yum!”
+ad = ad ( “ Yum!”
+ad = ad @ “ Yum!”
+1
+The + symbol is also used for Cacatination
+Endless loops
+Which of these would print ad forever?
+while True: (pretend there is a new line and a tab here) print(ad)
+while True: (pretend there is a new line and a tab here) print(ad) (pretend there is a new line and a tab here) break
+while False: (pretend there is a new line and a tab here) print(ad)
+while 3 == 4: (pretend there is a new line and a tab here) tprint(ad)
+1
+Endless loops can never evaluate to false, and can never hit a break statement
+Syntax
+Which of these will not return a syntax error?
+kitten_salad = “delicious”
+kitten_salad ==== “gross”
+kitten_salad is not  “delicious”
+kitten_salad != “delicious”
+1
+A single = symbol is what you use to assign variables
+Logical operators
+Which of these would evaluate to true?
+“delicious” in kitten_salad or 4 == 3
+“delicious” not in kitten_salad
+“gross” in kitten_salad and 4 == 3
+“gross” in kitten_salad or 4 == 3
+1
+An or statement returns true if either of the sides is true
+Defining functions
+How would you define a function called “eat” that takes a parameter called “object”?
+def eat(object):
+sadfhklfsjh;l
+dashhwijrhirrjhjj
+jajjjjajjajjajjihihihhihihii
+1
+The def keyword is used when defining functions
+Calling functions
+How would you call the eat function on salad?
+eat(salad)
+eat()salad
+saladeat()
+easaladt()
+1
+Parameters for functions are put within the parenthesis
+Stupid question #2
+What is the correct answer to this question?
+1
+2
+3
+4
+1
+The correct answer is 1

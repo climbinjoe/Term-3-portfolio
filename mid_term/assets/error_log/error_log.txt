@@ -1,0 +1,17 @@
+[Errno 2] No such file or directory: '/assets/test_files/example.txt' 12/03/20 14:25:57
+[Errno 2] No such file or directory: '/assets/test_files/example.txt' 12/07/20 12:34:02
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 12:36:49
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 12:41:13
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 12:43:07
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 12:43:34
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 13:16:47
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 13:17:25
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 13:19:31
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 13:24:53
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 13:25:23
+[Errno 2] No such file or directory: 'Desktop\\mid_term\x07ssets\test_filesexample_test.txt' 12/07/20 13:28:25
+[Errno 2] No such file or directory: '/assets/test_files/example_test.txt' 12/07/20 13:29:33
+[Errno 2] No such file or directory: 'assets/test_files/JosephHamiltonTestCorrect.txt' 12/09/20 13:37:21
+[Errno 2] No such file or directory: 'assets/test_files/assets/test_files/JosephHamiltonTestCorrect.txt' 12/09/20 13:39:15
+[Errno 2] No such file or directory: 'assets/test_files/assets/test_files/JosephHamiltonTestCorrect.txt' 12/09/20 13:40:19
+[Errno 2] No such file or directory: 'assets/test_files/JosephHamiltonTestCorrect.txt' 12/09/20 13:41:18
